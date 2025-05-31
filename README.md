@@ -32,37 +32,6 @@ The output is a structured report (JSON) containing the analyzed URL, a brief as
 * **No UI Focus**: The assignment is backend/agent-focused, so no time was spent on frontend or UI development.
 * **Code Quality**: Emphasis on clear, well-commented, and organized code within the notebook cells.
 
-{
-    "url": "[https://help.moengage.com/hc/en-us/articles/28194279371668-How-to-Analyze-OTT-Content-Performance](https://help.moengage.com/hc/en-us/articles/28194279371668-How-to-Analyze-OTT-Content-Performance)",
-    "readability_for_marketer": {
-        "assessment": "Above average readability with some complex phrases.",
-        "suggestions": [
-            "Define technical terms like 'streaming funnels' briefly on first use.",
-            "Simplify the sentence in the 'Overview' section starting with 'OTT analytics enables...'"
-        ]
-    },
-    "structure_and_flow": {
-        "assessment": "Well-structured with logical flow.",
-        "suggestions": [
-            "Use numbered steps under the 'How to analyze section.",
-            "Shorten the introduction by summarizing key takeaways."
-        ]
-    },
-    "completeness_and_examples": {
-        "assessment": "Detailed steps provided with helpful visuals.",
-        "suggestions": [
-            "Label screenshots with numbers for easy cross-reference.",
-            "Add a sample case study or scenario."
-        ]
-    },
-    "style_guidelines": {
-        "assessment": "Adheres to most style principles.",
-        "suggestions": [
-            "Avoid repetitive use of 'you can'.",
-            "Use consistent tone; some sections shift from instructional to descriptive."
-        ]
-    }
-}
 
 
 Article 1 Analysis
@@ -98,6 +67,44 @@ Article 1 Analysis
         "suggestions": [
             "Reword passive sentences under 'Best Practices'.",
             "Use more direct, action-based language like 'Upload your file' instead of 'Files can be uploaded'."
+        ]
+    }
+}
+
+```
+Article 2 Analysis
+
+**URL:** 'https://help.moengage.com/hc/en-us/articles/28194279371668-How-to-Analyze-OTT-Content-Performance'
+
+```json
+{
+    "url": "[https://help.moengage.com/hc/en-us/articles/28194279371668-How-to-Analyze-OTT-Content-Performance](https://help.moengage.com/hc/en-us/articles/28194279371668-How-to-Analyze-OTT-Content-Performance)",
+    "readability_for_marketer": {
+        "assessment": "Above average readability with some complex phrases.",
+        "suggestions": [
+            "Define technical terms like 'streaming funnels' briefly on first use.",
+            "Simplify the sentence in the 'Overview' section starting with 'OTT analytics enables...'"
+        ]
+    },
+    "structure_and_flow": {
+        "assessment": "Well-structured with logical flow.",
+        "suggestions": [
+            "Use numbered steps under the 'How to analyze section.",
+            "Shorten the introduction by summarizing key takeaways."
+        ]
+    },
+    "completeness_and_examples": {
+        "assessment": "Detailed steps provided with helpful visuals.",
+        "suggestions": [
+            "Label screenshots with numbers for easy cross-reference.",
+            "Add a sample case study or scenario."
+        ]
+    },
+    "style_guidelines": {
+        "assessment": "Adheres to most style principles.",
+        "suggestions": [
+            "Avoid repetitive use of 'you can'.",
+            "Use consistent tone; some sections shift from instructional to descriptive."
         ]
     }
 }
