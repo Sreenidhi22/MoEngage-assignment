@@ -7,13 +7,7 @@ This repository contains the solution for Task 1: The Documentation Analyzer Age
 - [Project Overview](#project-overview)
 - [Core Tasks Implemented](#core-tasks-implemented)
 - [Technical Guidelines Adhered To](#technical-guidelines-adhered-to)
-- [Project Structure](#project-structure)
-- [Setup and Running the Project](#setup-and-running-the-project)
-- [Notebook Explanations](#notebook-explanations)
-- [Design Choices and Approach](#design-choices-and-approach)
-- [Assumptions Made](#assumptions-made)
-- [Challenges Faced and How They Were Addressed](#challenges-faced-and-how-they-were-addressed)
-- [Example Output](#example-output)
+
 
 ## Project Overview
 
